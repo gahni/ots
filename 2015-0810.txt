@@ -1,0 +1,14 @@
+WHO: PILAYRE
+WHAT: Incorrect Login Time
+WHERE: Logbook
+WHEN: 08/10/2015
+
+NOTE: 	Saw the subject going to work near Plaza Rizal, time check 0556H but in logbook
+	she wrote 0520H. MALEZA reported other personnel who were doing same thing.
+	ie. RELAMEDA
+-------------------------
+
+WHO: 
+WHAT: 
+WHERE: 
+WHEN: 
