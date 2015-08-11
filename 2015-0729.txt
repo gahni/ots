@@ -5,7 +5,6 @@ WHEN: Out at around 0724H and back at around 0958H
 
 NOTE:  	Time was based on the CCTV video file from CAAP surveillance cameras.
 	Happened during OTS Security Audit by T.R. Officers.
-
 -------------------------
 
 
